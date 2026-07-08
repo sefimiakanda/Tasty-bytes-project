@@ -1,0 +1,1 @@
+2026-07-08 21:25:46,937 - Input: {'calories': 400.0, 'carbohydrate': 20.0, 'sugar': 5.0, 'protein': 15.0, 'servings': 4, 'category': 'Pork'} | Prediction: High
